@@ -27,7 +27,7 @@ Questions Solved : 20
 ============================
 Enter Your Choice:
 3
-Enter New Completed Topics: 
+Enter New Completed Topics:
 2
 Topics updated successfully.
 Total Completed Topics : 7
